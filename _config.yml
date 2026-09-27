@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "China, Beijing"
-title                    : "Yapeng Zhao"
+title                    : "Manul Zhao"
 title_separator          : "-"
-name                     : &name "Yapeng Zhao"
-description              : &description "Yapeng Zhao is a PhD student at the University of Toronto, with interests in mathematical physics, Lee-Yang zeros, the Dyson Hierarchical Model, and Hilbert's sixth problem."
+name                     : &name "Manul Zhao"
+description              : &description "Manul Zhao is a PhD student at the University of Toronto, with interests in mathematical physics, Lee-Yang zeros, the Dyson Hierarchical Model, and Hilbert's sixth problem."
 url                      : https://manulzhao-math.github.io # the base hostname & protocol for your site e.g. "https://manulzhao-math.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ManulZhao-Math/ManulZhao-Math.github.io"
@@ -67,7 +67,7 @@ og_image                 :  # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Person
-  name                   : "Yapeng Zhao"
+  name                   : "Manul Zhao"
   links:
     - https://manulzhao-math.github.io
     - https://github.com/ManulZhao-Math
@@ -82,7 +82,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yapeng Zhao"
+  name             : "Manul Zhao"
   avatar           : "profile-2026-06-16.jpg"
   bio              : ""
   location         : "currently at PKU"

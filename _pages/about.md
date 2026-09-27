@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Yapeng Zhao"
-excerpt: "Yapeng Zhao is a PhD student at the University of Toronto, with interests in mathematical physics, Lee-Yang zeros, the Dyson Hierarchical Model, and Hilbert's sixth problem."
+title: "Manul Zhao"
+excerpt: "Manul Zhao is a PhD student at the University of Toronto, with interests in mathematical physics, Lee-Yang zeros, the Dyson Hierarchical Model, and Hilbert's sixth problem."
 author_profile: true
 redirect_from: 
   - /about/
