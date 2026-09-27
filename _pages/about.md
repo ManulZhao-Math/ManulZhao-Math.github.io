@@ -16,6 +16,10 @@ Who I Am
 ======
 I am a PhD student at the University of Toronto, majoring in mathematics.
 
+"Manul" is another name for the Pallas's cat (*Otocolobus manul*), a small wild cat native to the steppes and mountains of Central Asia.
+
+<img src="/images/manul.png" alt="A Pallas's cat, also known as a manul" width="1024" height="768" style="width: 100%; max-width: 720px; height: auto;">
+
 My Academic Interests 
 ======
 Generally, I am interested in mathematical physics, but I do have broad interests in both mathematics and sciences.
@@ -55,5 +59,5 @@ I enjoy writing random things!
 
 My Email (Please feel free to contact me!)
 ======
-yapeng dot zhao at mail dot utoronto dot ca
+manul dot zhao at mail dot utoronto dot ca
 
