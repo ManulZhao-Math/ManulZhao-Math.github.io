@@ -11,9 +11,9 @@ title                    : "Yapeng Zhao"
 title_separator          : "-"
 name                     : &name "Yapeng Zhao"
 description              : &description "Yapeng Zhao is a PhD student at the University of Toronto, with interests in mathematical physics, Lee-Yang zeros, the Dyson Hierarchical Model, and Hilbert's sixth problem."
-url                      : https://YapengZhao-Math.github.io # the base hostname & protocol for your site e.g. "https://YapengZhao-Math.github.io"
+url                      : https://manulzhao-math.github.io # the base hostname & protocol for your site e.g. "https://manulzhao-math.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YapengZhao-Math/YapengZhao-Math.github.io"
+repository               : "ManulZhao-Math/ManulZhao-Math.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -69,8 +69,8 @@ social:
   type                   : Person
   name                   : "Yapeng Zhao"
   links:
-    - https://YapengZhao-Math.github.io
-    - https://github.com/YapengZhao-Math
+    - https://manulzhao-math.github.io
+    - https://github.com/ManulZhao-Math
 
 
 # Analytics
@@ -87,7 +87,7 @@ author:
   bio              : ""
   location         : "currently at PKU"
   #email            : "zhaoyapeng@stu.pku.edu.cn"
-  github           : "YapengZhao-Math"
+  github           : "ManulZhao-Math"
  # employer         :
 # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -99,7 +99,7 @@ author:
  # flickr           :
  # facebook         :
  # foursquare       :
- # github           : "YapengZhao-Math"
+ # github           : "ManulZhao-Math"
   # google_plus      :
  # keybase          :
  # instagram        :
