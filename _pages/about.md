@@ -59,5 +59,5 @@ I enjoy writing random things!
 
 My Email (Please feel free to contact me!)
 ======
-manul dot zhao at mail dot utoronto dot ca
+yapeng dot zhao at mail dot utoronto dot ca
 
