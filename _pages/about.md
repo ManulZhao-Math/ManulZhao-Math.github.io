@@ -24,7 +24,7 @@ My Academic Interests
 ======
 Generally, I am interested in mathematical physics, but I do have broad interests in both mathematics and sciences.
 
-Currently, I am particularly interested in phase transitions, especially in developing a dictionary that relates graphs, classes of models, and phase transitions, and in identifying concrete physical or chemical systems that realize each type of behavior.
+Currently, I am particularly interested in phase transitions, especially in developing a dictionary that relates graphs, classes of models, and phase transitions, and in identifying concrete physical systems that realize each type of behavior.
 
 ### A Broader Motivation
 
@@ -34,8 +34,6 @@ At present, I am deeply absorbed in exploring the limits of AI in mathematics.
  
 Research Projects
 ======
-I finished a project at the interface of mathematics and chemistry under the supervision of [Zhiqiang Li](https://math.pku.edu.cn/teachers/lizq/index.html) at Peking University. The project has been submitted. See [Reactive Oxygen Pool over Ceria Enables Catalytic Oscillation](https://www.researchsquare.com/article/rs-9275333/v1) if you are interested. Here is the presentation about our work: [Chemical Oscillation and Limit Cycles](https://www.overleaf.com/read/zpqmhcrqpngc#c44a25).
-
 I am currently working on a project related to Lee-Yang zeros under the supervision of [Roland Roeder](https://science.indianapolis.iu.edu/math/~roederr/) at IU Indianapolis.
 
 I am also conducting my senior thesis on the Dyson Hierarchical Model. In addition, my research projects and reading under Professor [Ilia Binder](https://www.math.toronto.edu/ilia/) at the University of Toronto can be viewed as an initial step toward my interest in Hilbert's sixth problem.
